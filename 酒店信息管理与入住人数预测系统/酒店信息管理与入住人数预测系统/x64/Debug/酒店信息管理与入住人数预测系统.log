@@ -1,0 +1,16 @@
+﻿  Customer.cpp
+  Header.cpp
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(667,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(668,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(677,2): warning C4065: switch statement contains 'default' but no 'case' labels
+  LinearRegression.cpp
+  login.cpp
+  main.cpp
+  Room.cpp
+  test.cpp
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\test.cpp(52,9): warning C4101: 'temp': unreferenced local variable
+  Time.cpp
+  Generating Code...
+     Creating library C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\x64\Debug\酒店信息管理与入住人数预测系统.lib and object C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\x64\Debug\酒店信息管理与入住人数预测系统.exp
+LINK : warning LNK4232: name 酒店信息管理与入住人数预测系统.exe contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 936
+  酒店信息管理与入住人数预测系统.vcxproj -> C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\x64\Debug\酒店信息管理与入住人数预测系统.exe

@@ -1,0 +1,42 @@
+﻿  Customer.cpp
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(46,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(74,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(140,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(165,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(190,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(215,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(240,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(265,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(289,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Customer.cpp(314,22): warning C4018: '<': signed/unsigned mismatch
+  Header.cpp
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(98,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(163,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(188,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(213,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(238,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(263,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(279,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(283,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(285,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(298,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(374,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(405,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(436,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(469,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(529,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(533,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(535,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Header.cpp(548,21): warning C4018: '<': signed/unsigned mismatch
+  login.cpp
+  main.cpp
+  Room.cpp
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Room.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+  Time.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 400 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  酒店信息管理与入住人数预测系统.vcxproj -> C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Release\酒店信息管理与入住人数预测系统.exe

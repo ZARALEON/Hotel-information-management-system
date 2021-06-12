@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\test.cpp(31,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\test.cpp(52,9): warning C4101: 'temp': unreferenced local variable
+  酒店信息管理与入住人数预测系统.vcxproj -> C:\Users\25231\Desktop\酒店信息管理与入住人数预测系统\Debug\酒店信息管理与入住人数预测系统.exe
